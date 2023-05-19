@@ -13,6 +13,7 @@ int isPronic(int num) {
 int main() {
     int num;
 
+
     scanf("%d", &num);
 
     if (isPronic(num)) {
